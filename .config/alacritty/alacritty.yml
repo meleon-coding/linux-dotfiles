@@ -1,0 +1,49 @@
+# Font configuration
+
+font:
+  normal:
+    family: Source Code Pro
+    style: Regular
+
+  bold:
+    family: Source Code Pro
+    style: Bold
+
+  italic:
+    family: Source Code Pro
+    style: Italic
+
+  bold_italic:
+    family: Source Code Pro
+    style: Bold Italic
+
+  size: 14
+
+# Colors (One Dark)
+colors:
+  # Default colors
+  primary:
+    background: '0x191919'
+    foreground: '0xffffff'
+
+  # Normal colors
+  normal:
+    black:   '0x141414'
+    red:     '0xe62020'
+    green:   '0x0bda51'
+    yellow:  '0xff9900'
+    blue:    '0x246BCE'
+    magenta: '0xc678dd'
+    cyan:    '0x56b6c2'
+    white:   '0xabb2bf'
+
+  # Bright colors
+  bright:
+    black:   '0x191919'
+    red:     '0xe06c75'
+    green:   '0x98c379'
+    yellow:  '0xff9900'
+    blue:    '0x61afef'
+    magenta: '0xc678dd'
+    cyan:    '0x56b6c2'
+    white:   '0xffffff'
